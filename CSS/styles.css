@@ -1,0 +1,18 @@
+body{
+  background: gray;
+  color: yellow;
+  text-align: left;
+  font-family: "Verdana";
+}
+
+h1 {
+	color: cyan;
+    text-align: left;
+    font-family: "Verdana";
+}
+
+h3 {
+	color: blue;
+    text-align: left;
+    font-family: "Verdana";
+}
