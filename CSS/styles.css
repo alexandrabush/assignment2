@@ -3,7 +3,11 @@ body{
   color: yellow;
   text-align: left;
   font-family: "Verdana";
+  margin: auto; 
+  width: 500px;
 }
+
+
 
 h1 {
 	color: cyan;

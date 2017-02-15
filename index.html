@@ -14,8 +14,9 @@
     <script src="./js/form.js"></script>
   </head>
   <body>
-    <h1> Make your Dream Pizza</h1>
-    <form name="myForm" action="demo_form.asp" onsubmit="return validateForm()">
+
+    <form id="pizzaForm" name="pizzaForm" action="success.html" onsubmit="return validateForm()" method="post">
+    	 <h1> Make your Dream Pizza</h1>
 	    <h3> Build the base: </h3>
 		<input type="radio" name="crust" value="Thin"> Thin Crust
 		<input type="radio" name="crust" value="Thick"> Thick Crust
